@@ -85,7 +85,7 @@ azure-storage-common==1.4.2
 azure-storage-file==1.4.0
 azure-storage-queue==1.4.0
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.4
 boto==2.49.0
 boto3==1.11.9
 botocore==1.14.9
