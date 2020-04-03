@@ -7,5 +7,5 @@ setup(
         author='Alan Haugen',
         author_email='alanhaugen@gmail.com',
         packages=['source'],  #same as name
-        install_requires=['numpy', 'pytorch', 'torchvision', 'tensorboard', 'kaggle'], #external packages as dependencies
+        install_requires=['pandas', 'numpy', 'pytorch', 'torchvision', 'tensorboard', 'kaggle'], #external packages as dependencies
 )
