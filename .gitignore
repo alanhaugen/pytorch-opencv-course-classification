@@ -2,3 +2,4 @@ data/images
 models
 notebooks/.ipynb_checkpoints/*
 logs
+.DS_Store
