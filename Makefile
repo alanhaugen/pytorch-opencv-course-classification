@@ -1,12 +1,12 @@
 
-.PHONY: data train predict
+.PHONY: train
 
-train: data models/food_classifier.pt
+train: data/images models/food_classifier.pt
 	./source/train_model.py
 
-predict: data models/prediction.pt
+models/food_classifier.pt: data/images
 	./source/predict_model.py
 
-data: data/images
+data/images:
 	./source/data/make_dataset.py
 

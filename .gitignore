@@ -1,4 +1,4 @@
-data/images
+data
 models
 notebooks/.ipynb_checkpoints/*
 logs
