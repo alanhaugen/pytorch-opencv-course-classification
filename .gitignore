@@ -1,4 +1,5 @@
 data
+*.png
 models
 notebooks/.ipynb_checkpoints/*
 logs

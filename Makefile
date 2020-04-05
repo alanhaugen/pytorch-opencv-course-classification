@@ -8,5 +8,5 @@ models/food_classifier.pt: data/images
 	./trainer/predict_model.py
 
 data/images:
-	./trainer/data/make_dataset.py
+	./trainer/make_dataset.py
 
