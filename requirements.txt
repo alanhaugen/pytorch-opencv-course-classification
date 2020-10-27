@@ -98,7 +98,7 @@ Click==7.0
 cloudpickle==1.2.2
 colorama==0.4.3
 configparser==4.0.2
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29.14
 cytoolz==0.10.1
